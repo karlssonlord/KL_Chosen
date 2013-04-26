@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+	<default>
+		<reference name="head">
+			<action method="addItem"><type>skin_css</type><name>css/kl_chosen/style.css</name></action>
+		</reference>
+		<reference name="foot">
+			<action method="addItem"><type>skin_js</type><name>js/kl_chosen/event.simulate.js</name></action>
+			<action method="addItem"><type>skin_js</type><name>js/kl_chosen/chosen.proto.min.js</name></action>
+			<action method="addItem"><type>skin_js</type><name>js/kl_chosen/script.js</name></action>
+		</reference>
+	</default>
+</layout>

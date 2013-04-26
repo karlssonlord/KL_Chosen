@@ -1,0 +1,5 @@
+app/code/community/KL/Chosen                          app/code/community/KL/Chosen
+app/design/frontend/base/default/layout/kl_chosen.xml app/design/frontend/base/default/layout/kl_chosen.xml
+app/etc/KL_Chosen.xml                                 app/etc/KL_Chosen.xml
+skin/frontend/base/default/css/kl_chosen              skin/frontend/base/default/css/kl_chosen
+skin/frontend/base/default/js/kl_chosen               skin/frontend/base/default/js/kl_chosen
